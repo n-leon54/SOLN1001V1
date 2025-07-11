@@ -1,0 +1,2 @@
+# SOLN1001V1
+SO GNU/Linux Debian 12
